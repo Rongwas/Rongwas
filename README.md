@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Rongwas
+- 👋 Hi, I’m @Morongwa Ralefeta
 - 👀 I’m interested in everything that has to do with computer science
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me morongwaegnes@gmail.com
+- 📫 How to reach me morongwa@aims.ac.za
+
 
 <!---
 Rongwas/Rongwas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
